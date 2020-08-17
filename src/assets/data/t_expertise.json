@@ -1,0 +1,58 @@
+[
+    {
+        "icon": ["fab", "linux"],
+        "name": "Linux Administration Systems"
+    },
+    {
+        "icon": ["fab", "html5"],
+        "name": "HTML5"
+    },
+    {
+        "icon": ["fab", "css3"],
+        "name": "CSS3"
+    },
+    {
+        "icon": ["fab", "sass"],
+        "name": "Sass"
+    },
+    {
+        "icon": ["fab", "js-square"],
+        "name": "JavaScript"
+    },
+    {
+        "icon": ["fab", "node"],
+        "name": "NodeJS"
+    },
+    {
+        "icon": ["fab", "react"],
+        "name": "ReactJS"
+    },
+    {
+        "icon": ["fab", "bootstrap"],
+        "name": "Bootstrap"
+    },
+    {
+        "icon": ["fab", "php"],
+        "name": "PHP 7"
+    },
+    {
+        "icon": "database",
+        "name": "Databases"
+    },
+    {
+        "icon": ["fab", "python"],
+        "name": "Python 3"
+    },
+    {
+        "icon": "terminal",
+        "name": "Bash"
+    },
+    {
+        "icon": "wifi",
+        "name": "Computer Networking"
+    },
+    {
+        "icon": "network-wired",
+        "name": "Parallel Programming"
+    }
+]

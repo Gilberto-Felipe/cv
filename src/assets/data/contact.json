@@ -1,0 +1,22 @@
+[
+    {
+        "href": "tel: +52 (312) 188 9878",
+        "icon": "mobile-alt",
+        "description": "+52 312 1889878"
+    },
+    {
+        "href": "mailto:gramirez25@ucol.mx?",
+        "icon": "envelope",
+        "description": "gramirez25@ucol.mx"
+    },
+    {
+        "href": "https://github.com/Gilberto-Felipe",
+        "icon": ["fab", "github-alt"],
+        "description": "Gilberto-Felipe"
+    },
+    {
+        "href": "https://www.linkedin.com/in/gilberto-felipe-ramirez-garcia/",
+        "icon": ["fab", "linkedin"],
+        "description": "Gilberto-Felipe-Ramirez-Garcia"
+    }
+]
