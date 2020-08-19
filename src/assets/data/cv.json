@@ -1,0 +1,63 @@
+[
+    {
+        "sumarize": "Software Engineer with expertise in Web development, Linux Administration Systems, Databases, Computer Networking, Parallel programing, HCI, IoT.",
+        "education": [
+            {
+                "university": "University of Colima",
+                "place": "Colima, Mexico",
+                "degree": "B. in Software Engineering",
+                "completition_date": "Expected Graduation: June 2021"
+            },
+            {
+                "university": "International House",
+                "place": "Guadalajara, Mexico",
+                "degree": "Spanish Teacher as Foreign Language Certificate",
+                "completition_date": "Completed: April 2015"
+            },
+            {
+                "university": "Regina Apostolorum",
+                "place": "Rome, Italy",
+                "degree": "B. in Philosophy GPA: 3.9/4.0",
+                "completition_date": "Graduated: June 2011"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Freelance",
+                "place": "Colima, Mexico",
+                "position": "Software Engineer",
+                "date": "June 2020",
+                "impact": [
+                    {
+                        "description": "Designed and developed a single-page website, so the company increased 75% its impact on the internet.",
+                        "technologies": "<strong>Technologies: ReactJS, Bootstrap, EmailJS, and Sass.</strong>"
+                    }
+                ]
+            },
+            {
+                "company": "",
+                "place": "",
+                "position": "",
+                "date": "",
+                "impact": [
+                    {
+                        "description": "",
+                        "technologies": ""
+                    }
+                ]
+            },
+            {
+                "company": "",
+                "place": "",
+                "position": "",
+                "date": "",
+                "impact": [
+                    {
+                        "description": "",
+                        "technologies": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
