@@ -1,9 +1,9 @@
 .sidebar {
 	background-color: teal;
 	color: white;
-	padding: 2.5rem !important;
+	padding: 2.5rem !important;	padding-bottom: 2.55 !important;
 
-	.circle {
+	img.circle {
 		width: 150px;
 		height: 150px !important;
 		border: 2px solid #eff3f5;
@@ -24,6 +24,19 @@
 	}
 
 	.divider {
-		margin-bottom: 1.5rem;
+		margin-bottom: 1rem;
     }
+}
+
+
+@media only screen and (min-width: 600px) {
+    .sidebar{
+		height: 1970px !important;
+	}
+}
+
+@media only screen and (min-width: 992px) {
+    .sidebar{
+		height: auto !important;
+	}
 }

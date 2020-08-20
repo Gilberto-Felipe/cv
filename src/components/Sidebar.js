@@ -9,8 +9,8 @@ import t_expertise from "../assets/data/t_expertise.json";
 class Sidebar extends Component {
 	render() {
 		return (
-			<div className="col s12 m4 sidebar container">
-				<img src="me.jpg" alt="me" class="circle responsive-img" />
+			<div className="col s12 m4 sidebar container center-align">
+				<img src="me.jpg" alt="me" className="circle" />
 				<h5 className="left-align">CONTACT</h5>
 				<div className="divider"></div>
 				{contact.map((contact, i) => {

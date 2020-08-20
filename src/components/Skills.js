@@ -8,10 +8,10 @@ class Skills extends Component {
 		return (
 			<div className="contact">
 				<div className="row">
-					<div className="col s2">
+					<div className="col s4">
 						<FontAwesomeIcon icon={icon} size="2x" />
 					</div>
-					<div className="col s10 left-align">
+					<div className="col s8 left-align">
 						<span className="">{name}</span>
 					</div>
 				</div>

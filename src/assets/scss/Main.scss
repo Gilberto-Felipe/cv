@@ -9,13 +9,42 @@
 
     .divider {
         background-color: #3873b2 !important;
+        margin-bottom: 1rem;
     }
 
-    .experience {
-        ul:not(.browser-default)>li {
-            padding: 0 10px!important;
-            list-style-type: circle;
-            list-style-position: inside;
-        }
+    ul {
+        list-style: none;
+    }
+
+    ul li::before {
+        content: "•";
+        color: #3873b2;
+        font-weight: bold;
+        display: inline-block; 
+        width: 1em;
+    }
+
+    .experience li {
+        padding: 0 10px!important;
+    }
+
+    span {
+        padding: 0 10px!important;
+    }
+
+    .awards li {
+        padding: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .right {
+        text-align: right;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .right-l {
+        text-align: right;
     }
 }

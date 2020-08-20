@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { updateTextFields } from 'materialize-css';
+import '../assets/scss/Footer.scss';
 
 class Footer extends Component {
     render() {
@@ -9,9 +9,9 @@ class Footer extends Component {
         uptodate = uptodate.slice(0,10);
 
         return (
-            <div>
-                <span>Última actualización: {uptodate}</span><br></br>
-                <span>CV Gilberto Ramírez 2020<sup>&copy;</sup> Todos los derechos reservados</span>
+            <div className="footer col s12 center-align">
+                <small>Last update: {uptodate}</small><br></br>
+                <small>CV Gilberto Ramírez 2020<sup>&copy;</sup>. All rights reserved.</small>
             </div>
             
         );
