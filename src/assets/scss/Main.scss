@@ -1,4 +1,21 @@
 .main {
-    background-color: turquoise;
+    background-color: white;
+    color: black;
     padding: 0 50px!important;
+
+    h1, h5 {
+        color: #3873b2;
+    }
+
+    .divider {
+        background-color: #3873b2 !important;
+    }
+
+    .experience {
+        ul:not(.browser-default)>li {
+            padding: 0 10px!important;
+            list-style-type: circle;
+            list-style-position: inside;
+        }
+    }
 }

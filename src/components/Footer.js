@@ -1,9 +1,19 @@
 import React, {Component} from 'react';
+import { updateTextFields } from 'materialize-css';
 
 class Footer extends Component {
     render() {
+
+        let uptodate = new Date();
+        uptodate = uptodate.toISOString();
+        uptodate = uptodate.slice(0,10);
+
         return (
-            <h3>Soy el footer</h3>
+            <div>
+                <span>Última actualización: {uptodate}</span><br></br>
+                <span>CV Gilberto Ramírez 2020<sup>&copy;</sup> Todos los derechos reservados</span>
+            </div>
+            
         );
     }
 }

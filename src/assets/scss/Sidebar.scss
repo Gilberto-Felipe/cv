@@ -1,13 +1,29 @@
 .sidebar {
-    background-color: teal;
-    color: white;
-    padding: 2.5rem !important;
+	background-color: teal;
+	color: white;
+	padding: 2.5rem !important;
 
-    .circle {
-        width: 97px;
-        height: 97px !important;
-        border: 2px solid #EFF3F5;
-        border-radius: 83px;
+	.circle {
+		width: 150px;
+		height: 150px !important;
+		border: 2px solid #eff3f5;
+		border-radius: 83px;
+	}
+
+	h5 {
+		padding: 2rem 0 0 0;
+	}
+
+	a {
+		text-decoration: none;
+		color: white !important;
+	}
+
+	a:hover {
+		color: #ccc !important;
+	}
+
+	.divider {
+		margin-bottom: 1.5rem;
     }
 }
-
