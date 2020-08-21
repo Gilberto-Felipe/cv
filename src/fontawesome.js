@@ -5,10 +5,11 @@ import {
     faDatabase, 
     faNetworkWired, 
     faTerminal, 
-    faWifi
+    faWifi,
+    faChevronCircleUp
 } from '@fortawesome/free-solid-svg-icons';
 import { 
-    faGithubAlt, 
+    faGithubAlt,
     faLinkedin,
     faLinux, 
     faWindows, 
@@ -44,5 +45,6 @@ library.add(
     faPhp, 
     faNode, 
     faPython, 
-    faReact
+    faReact,
+    faChevronCircleUp
 );

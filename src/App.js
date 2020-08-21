@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "materialize-css/dist/css/materialize.min.css";
 import "./assets/scss/App.scss";
 
