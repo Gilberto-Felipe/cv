@@ -1,7 +1,7 @@
 .sidebar {
 	background-color: teal;
 	color: white;
-	padding: 2.5rem !important;	padding-bottom: 2.55 !important;
+	padding: 2.5rem !important;	
 
 	img.circle {
 		width: 150px;
@@ -31,11 +31,17 @@
 
 @media only screen and (min-width: 600px) {
     .sidebar{
-		height: 2031px !important;
+		height: 1888px !important;
 	}
 }
 
 @media only screen and (min-width: 992px) {
+    .sidebar{
+		height: 1562px !important;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
     .sidebar{
 		height: auto !important;
 	}
