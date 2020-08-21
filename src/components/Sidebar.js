@@ -10,13 +10,13 @@ class Sidebar extends Component {
 	render() {
 		return (
 			<div className="col s12 m4 sidebar center-align" id="home">
-				<img src="me.jpg" alt="me" className="circle" />
+				<img src="me.jpg" alt="me" className="circle responsive-img" />
 				<h5 className="left-align">CONTACT</h5>
 				<div className="divider"></div>
 				{contact.map((contact, i) => {
 					return <Contact key={i} contact={contact} />;
 				})}
-				<h5 className="left-align">TECHNICAL EXPERTISE</h5>
+				<h5 className="left-align">EXPERTISE</h5>
 				<div className="divider"></div>
 				{t_expertise.map((expertise, i) => {
 					return <Skills key={i} expertise={expertise} />;

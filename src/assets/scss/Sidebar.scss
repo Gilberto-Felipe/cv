@@ -19,8 +19,12 @@
 		color: white !important;
 	}
 
-	a:hover {
+	a:hover, .reference {
 		color: #ccc !important;
+	}
+
+	.reference:hover {
+		color: white !important;
 	}
 
 	.divider {
