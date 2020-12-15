@@ -2,7 +2,7 @@
   "name": "cv_online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gilberto-ramirez.me/",
+  "homepage": "http://gilberto-ramirez.me",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
@@ -12,6 +12,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^3.1.0",
     "materialize-css": "^1.0.0",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
@@ -25,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
