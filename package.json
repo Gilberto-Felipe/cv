@@ -2,7 +2,7 @@
   "name": "cv_online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Gilberto-Felipe.github.io/cv",
+  "homepage": "http://Gilberto-Felipe/cv",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
