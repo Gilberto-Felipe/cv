@@ -1,6 +1,6 @@
 [
     {
-        "sumarize": "Software Engineer with expertise in Web development, Linux Administration Systems, Databases, Computer Networking, Parallel programing, HCI, IoT.",
+        "sumarize": "Software Engineer with experience in Web Development.",
         "education": [
             {
                 "university": "University of Colima",
@@ -29,7 +29,7 @@
                 "date": "June 2020",
                 "projects": [
                     {
-                        "description": "Designed and developed a single-page website, so the company increased 75% its impact on the internet.",
+                        "description": "Coordinated and developed a single-page website for a company. During the process learned React.",
                         "technologies": "ReactJS, Bootstrap, EmailJS, and Sass."
                     },
                     {
@@ -39,21 +39,17 @@
                 ]
             },
             {
-                "company": "University of Colima",
+                "company": "GHApps",
                 "place": "Colima, Mexico",
-                "position": "Support to the teaching staff",
-                "date": "Sept 2018 - Dec 2020",
+                "position": "Trainee Full-Stack",
+                "date": "Sept 2018 - March 2020",
                 "projects": [
-                    {
-                        "description": "Developed a responsive website to register and purchase passes for a web development conference event",
-                        "technologies": "HTML5, CSS3, JavaScript, jQuery, Ajax, AdminLTE, Mysql, PHP 7, Leaflet API, and Paypal API."
-                    },
                     {
                         "description": "Designed and developed a responsive single-page website for the project MapMonedero Acumulapuntos for the company GHApps.",
                         "technologies": "HTML5, CSS3, and Bootstrap 4."
                     },
                     {
-                        "description": "Developed 70’% of a web responsive information management system. It is consumed by the University of Colima Soccer Team App Lorofan that has 100+ downloads for Android. It has a CRUD for managing the game calendar, team, players, comments from users, news, and ads; it also has sessions by user profiles and encrypted passwords.",
+                        "description": "Developed 70% of a web responsive information management system. It is consumed by the University of Colima Soccer Team App, Lorofan, that has 100+ downloads for Android. Designed and developed the CRUD, login and sessions",
                         "technologies": "HTML/CSS, Bootstrap 4, AdminLTE framework, JavaScript, jQuery, Ajax, PHP 7, MySQL, and MVC pattern."
                     }
                 ]
@@ -84,9 +80,9 @@
             }
         ],
         "awards": [
-            "Won the scholarship for academic excellence three semesters in a row, by obtaining the highest grade among 65 Software Engineering students of the Faculty of Telematics.",
+            "Won the scholarship for academic excellence two semesters in a row, by obtaining the highest grade among 65 Software Engineering students of the Faculty of Telematics.",
             "Won a national-wide scholarship from the Telmex Foundation in recognition of leadership and academic success; only 0.9% of 4.2 million students got it in 2018.",
-            "Organized a chess tournament for the students of the major seminary of the diocese of Colima; 23 students participated in, and enrolled members of the local chess club \"El enroque\" as arbiters."
+            "On my 7th term, Coordinated a Club of Algorithms for students of the Faculty of Telematics, 36 students and a Professor got enrolled."
         ]
     }
 ]

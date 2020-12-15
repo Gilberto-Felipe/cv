@@ -10,7 +10,7 @@ class Sidebar extends Component {
 	render() {
 		return (
 			<div className="col s12 m4 sidebar center-align" id="home">
-				<img src="me.jpg" alt="me" className="circle responsive-img" />
+				<img src="me.JPG" alt="me" className="circle responsive-img" />
 				<h5 className="left-align">CONTACT</h5>
 				<div className="divider"></div>
 				{contact.map((contact, i) => {

@@ -11,7 +11,7 @@ class Footer extends Component {
                 <Link activeClass="active" to="home" spy={true} smooth={true} duration={1000}>
                     <FontAwesomeIcon icon={faChevronCircleUp} size="3x" className="right" />
                 </Link>
-                <small>Last update: 2020-08-20</small><br></br>
+                <small>Last update: 2020-12-14</small><br></br>
                 <small>CV Gilberto Ramírez 2020<sup>&copy;</sup>. All rights reserved.</small>
             </div>
             

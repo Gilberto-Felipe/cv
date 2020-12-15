@@ -13,16 +13,18 @@ class Main extends Component {
 				<h5>Software Engineer</h5>
 				<span className="sumarize">{cv[0].sumarize}</span>
 				
-				<h5>EDUCATION</h5>
-				<div className="divider"></div>
-				{cv.map((cv, i) => {
-					return <Education key={i} cv={cv} />;
-				})}
 				<h5>EXPERIENCE</h5>
 				<div className="divider"></div>
                 {cv.map((cv, i) => {
 					return <Experience key={i} cv={cv} />;
 				})}
+				
+				<h5>EDUCATION</h5>
+				<div className="divider"></div>
+				{cv.map((cv, i) => {
+					return <Education key={i} cv={cv} />;
+				})}
+
 				<h5>LEADERSHIP AND AWARDS</h5>
 				<div className="divider"></div>
 				{cv.map((cv, i) => {
